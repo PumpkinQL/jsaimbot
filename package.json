@@ -13,7 +13,6 @@
     "asynckeystate": "0.0.5",
     "electron": "^13.2.1",
     "electron-overlay-window": "^2.0.1",
-    "rebuild": "^0.1.2",
     "robotjs": "^0.6.0"
   },
   "devDependencies": {
