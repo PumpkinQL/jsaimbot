@@ -1,0 +1,22 @@
+{
+  "name": "on_screen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asynckeystate": "0.0.5",
+    "electron": "^13.2.1",
+    "electron-overlay-window": "^2.0.1",
+    "rebuild": "^0.1.2",
+    "robotjs": "^0.6.0"
+  },
+  "devDependencies": {
+    "electron-rebuild": "^3.2.0"
+  }
+}
